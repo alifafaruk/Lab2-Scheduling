@@ -1,4 +1,5 @@
-# Fall 2019 Lab2-Scheduling Operating Systems taught by Yan Shvartzshnaide. #Project Author Alifa Faruk 
+# Fall 2019 Lab2-Scheduling Operating Systems taught by Yan Shvartzshnaide. 
+Project Author Alifa Faruk 
 
  
 In this lab  simulates scheduling in order to see how the time required depends on the scheduling
@@ -31,6 +32,7 @@ All scheduling algorithms will be displayed on the screen.
 ->java Scheduler verbose input-1.txt
 
 OR 
+
 ->javac Scheduler.java
 
 ->java Scheduler input-1.txt
