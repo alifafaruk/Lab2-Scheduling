@@ -9,7 +9,7 @@
 import java.util.Comparator;
 import java.util.PriorityQueue;
 
-import sun.net.TelnetOutputStream;
+//import sun.net.TelnetOutputStream;
 
 public class Process implements Comparable<Process>{
 	//variables of each process
