@@ -1,5 +1,4 @@
-# Fall 2019 Lab2-Scheduling Operating Systems taught by Yan Shvartzshnaide.
-#Project Author Alifa Faruk 
+# Fall 2019 Lab2-Scheduling Operating Systems taught by Yan Shvartzshnaide. #Project Author Alifa Faruk 
 
  
 In this lab  simulates scheduling in order to see how the time required depends on the scheduling
@@ -16,7 +15,7 @@ The input files should be in the following formate:
               1  0 1 5 1 
               2  0 1 5 1  0 1 5 1 
 
-Two spaces in between each process (as indicated in the lab2-spec. Example inputs based on the given outputs are given in the zipped file containing contents of this lab2.
+Two spaces in between each process (as indicated in the lab2-spec). Example inputs based on the given outputs are given in the zipped file containing contents of this lab2.
 
 
 When compiling and running, change to the directory where Scheduler.java is currently at.
