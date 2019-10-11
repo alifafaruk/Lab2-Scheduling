@@ -713,7 +713,7 @@ for(int i =0; i<IOUtilization.size();i++) {
 }
 ioUtilization=(double)AVGIO/((double) cycleNum);
 System.out.println("\tI/O Utilization:: " + ioUtilization);
-System.out.println("\tThroughput: " + ((double)((double)100*list.size()/(double)(cycleNum-1))) + " processes per hundred cycles");
+System.out.println("\tThroughput: " + ((double)((double)100*list.size()/(double)(cycleNum))) + " processes per hundred cycles");
 int avg=0;
 double TAT1=0;
 for(int i =0; i<AVGturnaroundTime.size();i++) {
